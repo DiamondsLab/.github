@@ -23,6 +23,9 @@ The Diamonds Monorepo for developing and testing the integrations of the other D
 ### 🌐 [Hardhat-Multichain](https://github.com/DiamondsLab/hardhat-multichain)
 Used for localized testing of multiple Hardhat network forks simultaneously. Essential for testing cross-chain interactions and multi-network deployment scenarios.
 
+### 🐳 [Diamonds-Devcontainer](https://github.com/DiamondsLab/diamonds-devcontainer)
+A pre-configured development container for working with Diamonds projects. Provides a consistent development environment with all necessary tools and dependencies included.
+
 ## Getting Started
 
 1. **New Projects**: Start with [Diamonds-Base](https://github.com/DiamondsLab/diamonds-base) for a ready-to-use project template
