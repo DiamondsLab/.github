@@ -1,6 +1,6 @@
 # The Diamonds Lab
 
-Welcome to DiamondsLab – a collection of tools and libraries designed to streamline the development, deployment, and management of smart contract systems using the **ERC2535 Diamonds Proxy Standard**.
+Welcome to the Diamonds Lab – a collection of tools and libraries designed to streamline the development, deployment, and management of smart contract systems using the **ERC2535 Diamonds Proxy Standard**.
 
 ## About
 
