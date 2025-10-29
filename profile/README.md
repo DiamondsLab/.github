@@ -1,6 +1,6 @@
-# The Diamonds Lab
+# DiamondsLab
 
-Welcome to the Diamonds Lab – a collection of tools and libraries designed to streamline the development, deployment, and management of smart contract systems using the **ERC2535 Diamonds Proxy Standard**.
+Welcome to DiamondsLab – a collection of tools and libraries designed to streamline the development, deployment, and management of smart contract systems using the **ERC2535 Diamonds Proxy Standard**.
 
 ## About
 
@@ -20,11 +20,17 @@ A base template for new projects to build from. Get started quickly with a pre-c
 ### 🧪 [Diamonds Development Environment](https://github.com/DiamondsLab/diamonds-dev-env)
 The Diamonds Monorepo for developing and testing the integrations of the other DiamondsLab projects. This is where all the pieces come together for comprehensive testing and development.
 
+### 🐳 [Diamonds-Devcontainer](https://github.com/DiamondsLab/diamonds-devcontainer)
+A pre-configured development container for working with Diamonds projects. Provides a consistent development environment with all necessary tools and dependencies included.
+
+### 📊 [Diamonds-Monitor](https://github.com/DiamondsLab/diamonds-monitor)
+A monitoring tool for diamond contracts. Track and observe the state and behavior of deployed diamond systems in real-time.
+
 ### 🌐 [Hardhat-Multichain](https://github.com/DiamondsLab/hardhat-multichain)
 Used for localized testing of multiple Hardhat network forks simultaneously. Essential for testing cross-chain interactions and multi-network deployment scenarios.
 
-### 🐳 [Diamonds-Devcontainer](https://github.com/DiamondsLab/diamonds-devcontainer)
-A pre-configured development container for working with Diamonds projects. Provides a consistent development environment with all necessary tools and dependencies included.
+### 🚀 [Hardhat-Multichain-Boilerplate](https://github.com/DiamondsLab/hardhat-multichain-boilerplate)
+A boilerplate project for multichain development using Hardhat. Provides a starting point for building and testing contracts across multiple blockchain networks.
 
 ## Getting Started
 
