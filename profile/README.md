@@ -1,6 +1,6 @@
-# DiamondsLab
+# The Diamonds Lab
 
-Welcome to DiamondsLab – a collection of tools and libraries designed to streamline the development, deployment, and management of smart contract systems using the **ERC2535 Diamonds Proxy Standard**.
+Welcome to the Diamonds Lab – a collection of tools and libraries designed to streamline the development, deployment, and management of smart contract systems using the **ERC2535 Diamonds Proxy Standard**.
 
 ## About
 
@@ -8,7 +8,7 @@ The ERC2535 Diamonds standard enables modular smart contract systems with upgrad
 
 ## Our Tools
 
-### 🔷 [Diamonds](https://github.com/DiamondsLab/diamonds)
+### 💎 [Diamonds](https://github.com/DiamondsLab/diamonds)
 The core Node.js module for diamonds deployment and management. This is the foundation of the DiamondsLab ecosystem, providing essential functionality for working with diamond contracts.
 
 ### ⚒️ [Hardhat-Diamonds](https://github.com/DiamondsLab/hardhat-diamonds)
@@ -54,5 +54,3 @@ We welcome contributions to any of our projects! Please check individual reposit
 Each project has its own license. Please refer to the individual repositories for licensing information.
 
 ---
-
-**Built with 💎 by the DiamondsLab team**
