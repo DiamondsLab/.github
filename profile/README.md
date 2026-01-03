@@ -17,7 +17,7 @@ Hardhat-specific tooling and tasks for the diamonds system. Integrates seamlessl
 ### 📊 [Diamonds-Monitor](https://github.com/DiamondsLab/diamonds-monitor)
 A monitoring tool for diamond contracts. Track and observe the state and behavior of deployed diamond systems in real-time.
 
-### 📚 [Diamonds-Hardhat-Foundry](https://github.com/Diamondslab/diamonds-hardaht-foundry)
+### 📚 [Diamonds-Hardhat-Foundry](https://github.com/Diamondslab/diamonds-hardhat-foundry)
 This Hardhat plugin that seamlessly integrates Foundry testing with ERC-2535 Diamond proxy contracts, providing deployment helpers and test scaffolding, including fuzzing and invariant tests, for Diamonds module based smart contract systems using Foundry's powerful testing framework.
 
 ### 📦 [Diamonds-Base](https://github.com/DiamondsLab/diamonds-base)
