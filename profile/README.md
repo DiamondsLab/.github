@@ -14,6 +14,12 @@ The core Node.js module for diamonds deployment and management. This is the foun
 ### ⚒️ [Hardhat-Diamonds](https://github.com/DiamondsLab/hardhat-diamonds)
 Hardhat-specific tooling and tasks for the diamonds system. Integrates seamlessly with the Diamonds Node Module to provide a smooth development experience within the Hardhat framework.
 
+### 📊 [Diamonds-Monitor](https://github.com/DiamondsLab/diamonds-monitor)
+A monitoring tool for diamond contracts. Track and observe the state and behavior of deployed diamond systems in real-time.
+
+### 📚 [Diamonds-Hardhat-Foundry](https://github.com/Diamondslab/diamonds-hardaht-foundry)
+This Hardhat plugin that seamlessly integrates Foundry testing with ERC-2535 Diamond proxy contracts, providing deployment helpers and test scaffolding, including fuzzing and invariant tests, for Diamonds module based smart contract systems using Foundry's powerful testing framework.
+
 ### 📦 [Diamonds-Base](https://github.com/DiamondsLab/diamonds-base)
 A base template for new projects to build from. Get started quickly with a pre-configured project structure that follows best practices for diamond contract development.
 
@@ -22,9 +28,6 @@ The Diamonds Monorepo for developing and testing the integrations of the other D
 
 ### 🐳 [Diamonds-Devcontainer](https://github.com/DiamondsLab/diamonds-devcontainer)
 A pre-configured development container for working with Diamonds projects. Provides a consistent development environment with all necessary tools and dependencies included.
-
-### 📊 [Diamonds-Monitor](https://github.com/DiamondsLab/diamonds-monitor)
-A monitoring tool for diamond contracts. Track and observe the state and behavior of deployed diamond systems in real-time.
 
 ### 🌐 [Hardhat-Multichain](https://github.com/DiamondsLab/hardhat-multichain)
 Used for localized testing of multiple Hardhat network forks simultaneously. Essential for testing cross-chain interactions and multi-network deployment scenarios.
